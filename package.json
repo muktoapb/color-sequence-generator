@@ -1,0 +1,12 @@
+{
+  "name": "color-sequence-generator",
+  "version": "1.0.0",
+  "description": "Generate color sequences between two hex colors",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["color", "sequence", "generator"],
+  "author": "Mahidul Islam Mukto",
+  "license": "MIT"
+}
