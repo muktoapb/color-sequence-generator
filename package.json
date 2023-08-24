@@ -7,6 +7,6 @@
     "test": "echo \"No tests specified\""
   },
   "keywords": ["color", "sequence", "generator"],
-  "author": "Mahidul Islam Mukto",
+  "author": "Mahidul Islam Mukto <hello@mukto.info> (https://mukto.info)",
   "license": "MIT"
 }
