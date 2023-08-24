@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"No tests specified\""
   },
-  "keywords": ["color", "sequence", "generator"],
+  "keywords": [
+    "color",
+    "sequence",
+    "generator"
+  ],
   "author": "Mahidul Islam Mukto <hello@mukto.info> (https://mukto.info)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
 }

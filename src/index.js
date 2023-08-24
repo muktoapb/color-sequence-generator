@@ -1,5 +1,6 @@
-const { hexToRGB } = require('./hexToRGB');
-const { rgbToHex } = require('./rgbToHex');
+const hexToRGB = require('./hexToRGB');
+const rgbToHex = require('./rgbToHex');
+
 
 function generateColorSequence(startColor, endColor, amount) {
   // Convert hex color codes to RGB values
